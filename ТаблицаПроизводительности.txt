@@ -1,0 +1,35 @@
+SingleArray
+RunTime - добавление по индексу Algorithms_DynamicArray.SingleArray`1[System.Int32] 1000 00:00:00.00
+RunTime - удаление по индексу Algorithms_DynamicArray.SingleArray`1[System.Int32] 1000 00:00:00.00
+RunTime - добавление по индексу Algorithms_DynamicArray.SingleArray`1[System.Int32] 10000 00:00:00.41
+RunTime - удаление по индексу Algorithms_DynamicArray.SingleArray`1[System.Int32] 10000 00:00:00.41
+RunTime - добавление по индексу Algorithms_DynamicArray.SingleArray`1[System.Int32] 100000 00:00:32.73
+RunTime - удаление по индексу Algorithms_DynamicArray.SingleArray`1[System.Int32] 100000 00:00:32.73
+_____________
+
+VectorArray
+RunTime - добавление по индексу Algorithms_DynamicArray.VectorArray`1[System.Int32] 1000 00:00:00.00
+RunTime - удаление по индексу Algorithms_DynamicArray.VectorArray`1[System.Int32] 1000 00:00:00.00
+RunTime - добавление по индексу Algorithms_DynamicArray.VectorArray`1[System.Int32] 10000 00:00:00.26
+RunTime - удаление по индексу Algorithms_DynamicArray.VectorArray`1[System.Int32] 10000 00:00:00.26
+RunTime - добавление по индексу Algorithms_DynamicArray.VectorArray`1[System.Int32] 100000 00:00:26.14
+RunTime - удаление по индексу Algorithms_DynamicArray.VectorArray`1[System.Int32] 100000 00:00:26.14
+_____________
+
+FactorArray
+RunTime - добавление по индексу Algorithms_DynamicArray.FactorArray`1[System.Int32] 1000 00:00:00.00
+RunTime - удаление по индексу Algorithms_DynamicArray.FactorArray`1[System.Int32] 1000 00:00:00.00
+RunTime - добавление по индексу Algorithms_DynamicArray.FactorArray`1[System.Int32] 10000 00:00:00.25
+RunTime - удаление по индексу Algorithms_DynamicArray.FactorArray`1[System.Int32] 10000 00:00:00.25
+RunTime - добавление по индексу Algorithms_DynamicArray.FactorArray`1[System.Int32] 100000 00:00:26.75
+RunTime - удаление по индексу Algorithms_DynamicArray.FactorArray`1[System.Int32] 100000 00:00:26.75
+_____________
+
+ArrayList
+RunTime - добавление по индексу System.Collections.ArrayList 1000 00:00:00.00
+RunTime - удаление по индексу System.Collections.ArrayList 1000 00:00:00.00
+RunTime - добавление по индексу System.Collections.ArrayList 10000 00:00:00.01
+RunTime - удаление по индексу System.Collections.ArrayList 10000 00:00:00.01
+RunTime - добавление по индексу System.Collections.ArrayList 100000 00:00:01.67
+RunTime - удаление по индексу System.Collections.ArrayList 100000 00:00:01.67
+_____________
